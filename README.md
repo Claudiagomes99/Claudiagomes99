@@ -14,11 +14,11 @@
 
 ### 🌸 Sobre mim:
 - 🎓 Estudo **Desenvolvimento de Sistemas** na **Etec Zona Leste**
-- 💡 Apaixonada por **tecnologia, design e aprendizado contínuo**
+- 💡 Apaixonada por **tecnologia, design e aprendizado contínuo**  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 - 🎨 Crio projetos com **código e criatividade**
 - 🌱 Atualmente aprendendo **C++, TypeScript e Python**
 - ✨ Curiosidade: adoro personalizar interfaces e criar algo bonito 🌷
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ 
 
 ---
 
