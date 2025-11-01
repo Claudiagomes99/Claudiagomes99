@@ -6,14 +6,14 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudiagomes99&theme=omni"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudiagomes99&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudiagomes99&theme=omni"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudiagomes99&theme=omni"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudiagomes99&theme=omni"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudiagomes99&theme=dracula&utcOffset=-3"/>
 </div>
 
