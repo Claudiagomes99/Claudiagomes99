@@ -16,8 +16,9 @@
 - 🎓 Estudo **Desenvolvimento de Sistemas** na **Etec Zona Leste**
 - 💡 Apaixonada por **tecnologia, design e aprendizado contínuo**
 - 🎨 Crio projetos com **código e criatividade**
-- 🌱 Atualmente aprendendo **React, TypeScript e Python**
+- 🌱 Atualmente aprendendo **C++, TypeScript e Python**
 - ✨ Curiosidade: adoro personalizar interfaces e criar algo bonito 🌷
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ---
 
