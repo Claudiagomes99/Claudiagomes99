@@ -3,9 +3,28 @@
 <h3 align="center">💻 Estudante de Desenvolvimento de Sistemas na <b>Etec Zona Leste</b></h3>
 
 ---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudiagomes99&theme=dracula"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudiagomes99&theme=dracula"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudiagomes99&theme=dracula&utcOffset=-3"/>
+</div>
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Claudiagomes99&layout=compact&langs_count=6&theme=omni&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudiagomes99&theme=dracula"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudiagomes99&theme=dracula"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudiagomes99&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudiagomes99&theme=dracula&utcOffset=-3"/>
 </div>
 
 ---
