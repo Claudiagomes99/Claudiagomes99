@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Olá, me chamo Claudia Vieira Gomes.</h1>
+<h1 align="center">🌸 Olá, meu nome é Claudia Vieira Gomes.</h1>
 
 <h3 align="center">💻 Estudante de Desenvolvimento de Sistemas na <b>Etec Zona Leste</b></h3>
 
