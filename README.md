@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/8f/52/08/8f52085c2e2ad0ed8d09a12c8ebefb3a.gif"  />
+<img align="right" height="160" src="https://i.pinimg.com/originals/8f/52/08/8f52085c2e2ad0ed8d09a12c8ebefb3a.gif"  />  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### 🌸 Sobre mim:
 - 🎓 Estudo **Desenvolvimento de Sistemas** na **Etec Zona Leste**
@@ -18,9 +18,6 @@
 - 🎨 Crio projetos com **código e criatividade**
 - 🌱 Atualmente aprendendo **C++, TypeScript e Python**
 - ✨ Curiosidade: adoro personalizar interfaces e criar algo bonito 🌷
-  ###
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-  ###
   
 ---
 
