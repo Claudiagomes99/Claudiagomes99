@@ -26,10 +26,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
@@ -55,7 +51,7 @@
   <a href="https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/claudia-vieira-gomes-977940383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://seuportifolio.com" target="_blank">
+  <a href="https://github.com/Claudiagomes99/Portfolio-2025-1-DSAMS" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
