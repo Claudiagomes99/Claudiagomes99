@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&langs_count=6&theme=dracula&hide_border=false" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Claudiagomes99&layout=compact&langs_count=6&theme=omni&hide_border=true" />
 </div>
 
 ---
