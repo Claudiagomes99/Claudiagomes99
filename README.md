@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudiagomes99&theme=omni"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudiagomes99&theme=tokyonight"/>
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudiagomes99&theme=omni"/>
