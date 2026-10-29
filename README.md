@@ -23,9 +23,9 @@
 
 ### 🌸 Sobre mim:
 - 🎓 Estudo **Desenvolvimento de Sistemas** na **Etec Zona Leste**
-- 💡 Apaixonada por **tecnologia, design e aprendizado contínuo**  
-- 🎨 Crio projetos com **código e criatividade**
-- 🌱 Atualmente aprendendo **C++, TypeScript e Python**
+- 💡 Apaixonada por **tecnologia, design e seguraça**  
+- 🎨 Crio projetos com **foco e criatividade**
+- 🌱 Atualmente aprendendo **SQL e Python**
 - ✨ Curiosidade: adoro personalizar interfaces e criar algo bonito 🌷
   
 ---
